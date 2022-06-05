@@ -1,0 +1,19 @@
+.container {
+	max-width: 900px;
+	margin: 0 auto;
+}
+
+a {
+	color: #3b5998;
+	font-weight: 500;
+	text-decoration: underline;
+	&:hover {
+		text-decoration: none;
+	}
+}
+
+hr {
+	border: 0;
+	border-top: 1px solid #e9e9e9;
+	margin: 20px 0;
+}

@@ -1,0 +1,95 @@
+.title {
+	display: flex;
+	align-items: center;
+	padding: 0 20px;
+
+	h2 {
+		font-size: 1rem;
+		font-weight: 600;
+
+		letter-spacing: -0.44px;
+	}
+	svg {
+		width: 20px;
+		height: 20px;
+		margin-right: 8px;
+	}
+}
+
+.leftpanel {
+	width: 160px;
+	@media screen and (min-width: 768px) {
+		text-align: right;
+	}
+	.type {
+		font-size: 0.9rem;
+		font-weight: 500;
+		color: #e97848;
+	}
+	.contract {
+		color: #e948bc;
+	}
+	.fulltime {
+		color: #6d40ca;
+	}
+	.date {
+		font-size: 1rem;
+		letter-spacing: -0.44px;
+		font-weight: 600;
+	}
+	.job {
+		font-size: 1.1rem;
+		font-weight: 400;
+		span {
+			font-size: 0.75rem;
+			opacity: 0.7;
+			display: block;
+		}
+	}
+}
+
+.rightpanel {
+	h3 {
+		font-size: 1.7rem;
+		letter-spacing: -0.44px;
+		line-height: 1.2;
+	}
+	small {
+		font-size: 0.8rem;
+		text-transform: uppercase;
+		color: #999;
+		display: block;
+		margin-bottom: 10px;
+	}
+	ul {
+		padding: 18px;
+		margin-block: 0;
+		li {
+			color: #444;
+			margin-bottom: 4px;
+			color: #666;
+			&::marker {
+				color: red;
+			}
+		}
+	}
+	strong {
+		font-size: 0.8rem;
+	}
+	.skills {
+		display: flex;
+		list-style: none;
+		padding: 0;
+		font-size: 0.8rem;
+		gap: 8px;
+		li {
+			padding: 2px 8px;
+			border-radius: 99px;
+			background-color: rgba(255, 255, 255, 0.5);
+		}
+	}
+
+	@media screen and (min-width: 768px) {
+		width: 660px;
+	}
+}

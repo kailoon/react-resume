@@ -1,0 +1,85 @@
+[
+	{
+		"title": "99.co",
+		"job": "UI/UX Designer",
+		"date": "2015 - 2016",
+		"type": "freelance",
+		"description": "A map-based property search engine that provides renters, buyers, and agents fast and efficient property search experience.",
+		"tasks": {
+			"accomplishments": [
+				"Research and improve the Mobile & Web App User Interface and Experience to be as friendly as possible to users, regardless of their technical background for maximum adoption.",
+				"Wire frame and prototyped using Sketch App."
+			]
+		},
+		"skillsTools": { "items": ["UX", "UI", "Sketch App"] }
+	},
+	{
+		"title": "DearTime",
+		"date": "2021 - 2022",
+		"job": "Lead UI/UX Designer",
+		"type": "freelance",
+		"description": "Deartime is making life insurance accessible to everyone without intermediaries and restoring the quality of life for those in times of need.",
+		"tasks": {
+			"accomplishments": [
+				"Provide wireframe, prototype and final designs to improve the existing Mobile App in Figma.",
+				"Design and develop official website using WordPress & Elementor."
+			]
+		},
+		"skillsTools": { "items": ["UX", "UI", "WordPress", "JavaScript", "Figma"] }
+	},
+	{
+		"title": "FlickEvents",
+		"date": "2013",
+		"job": "Web Developer",
+		"type": "freelance",
+		"description": "It is a project from a recurring client. We work on a brand identity project previously. This time, the client needs to launch an event management service. The service focuses on audience engagement and fully utilise technology to help user setup event with ease. FlickEvents help businesses by providing insight analytics to help businesses to discover intelligently, to outreach, grow and maintain relationships with each othe",
+		"tasks": {
+			"accomplishments": [
+				"Develop the brand identity for the company.",
+				"Design and develop the company website using WordPress."
+			]
+		},
+		"skillsTools": {
+			"items": ["Branding", "WordPress", "Web Design", "JavaScript"]
+		}
+	},
+	{
+		"title": "Cemnet",
+		"date": "2013",
+		"job": "Web Developer",
+		"type": "freelance",
+		"description": "The home of international cement review.",
+		"tasks": {
+			"accomplishments": [
+				"Design and develop the publisher website using WordPress.",
+				"Liase with the client to make sure the website is up to date with the latest news and events."
+			]
+		},
+		"skillsTools": { "items": ["WordPress", "Web Design", "JavaScript"] }
+	},
+	{
+		"title": "Wynntech Star",
+		"date": "2018",
+		"job": "Web Developer",
+		"type": "freelance",
+		"description": "Wynntech Star is prawn processing company that supply prawns to local and oversea market.",
+		"tasks": {
+			"accomplishments": [
+				"Develop the website using Grav (https://getgrav.org/) in 3 languages.",
+				"Services included hosting setup, emails setup, design, Grav implementation and SEO optimisation."
+			]
+		},
+		"skillsTools": { "items": ["Grav", "JavaScript"] }
+	},
+	{
+		"title": "EverCondo App Design",
+		"date": "2015",
+		"job": "UI/UX Designer",
+		"type": "freelance",
+		"description": "Evercondo strives to tackle the problems faced by condo / HOA managers to deal with a large number of residents, resulting in miscommunication and poor quality of service for the entire community. It replaces the old ways where both managers and residents communicate and manage day-to-day chores using phones, emails, fax etc.",
+		"tasks": {
+			"accomplishments": ["The startup grows 300 Percent since 2016."]
+		},
+		"skillsTools": { "items": ["UX", "UI"] }
+	}
+]

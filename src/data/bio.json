@@ -1,0 +1,16 @@
+{
+	"name": "Chan Kai Loon",
+	"jobTitle": "Front End UI Developer",
+	"avatar": "https://github.com/kailoon.png",
+	"website": "https://kailoon.com",
+	"dob": "Aug 7, 1982",
+	"email": "chankailoon@gmail.com",
+	"phone": "+60173002834",
+	"location": "Malaysia",
+	"about": "My objective is to make the absolute best interfaces possible with functional, reusable and flexible code that will transform any interface into a perfect user experience. Obsessed with details, focused on clean, customer oriented solutions. Customer quality and delivered quality are founding pillars.Treat others like you'd like to be treated and create products you'd want to use and buy!",
+	"education": {
+		"title": "Bachelor of Science in Multimedia &  Technology",
+		"school": "University of Malaysia Sabah",
+		"date": "2003 - 2006"
+	}
+}

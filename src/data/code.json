@@ -1,0 +1,45 @@
+[
+	{
+		"title": "Front End",
+		"skills": {
+			"items": [
+				"HTML5",
+				"CSS3, SCSS, SASS",
+				"JavsScript",
+				"TailWindCSS",
+				"React",
+				"NextJS",
+				"JSON",
+				"Web"
+			]
+		}
+	},
+	{
+		"title": "Tools",
+		"skills": {
+			"items": [
+				"Gitt",
+				"Figma",
+				"Photoshop",
+				"Illustrator",
+				"Sketch App",
+				"Notion"
+			]
+		}
+	},
+	{
+		"title": "Learning",
+		"skills": {
+			"items": [
+				"Docker CLI",
+				"SvelteJS",
+				"Supabase",
+				"Prisma",
+				"MySQL",
+				"PostgreSQL",
+				"React Native",
+				"TypeScript"
+			]
+		}
+	}
+]

@@ -1,0 +1,88 @@
+[
+	{
+		"title": "Web Developer",
+		"company": "Tuck Cheong Loong Sdn Bhd",
+		"type": "Full Time",
+		"date": "Aug 2007 - Oct 2007",
+		"description": "Tuck Cheong Loong Trading Sdn Bhd was founded in 1990. The Company's line of business includes the wholesale distribution of printing and writing paper.",
+		"tasks": {
+			"accomplishments": [
+				"Designing brochures, marketing materials in Photoshop and Illustrator.",
+				"Develop the company website using HTML/CSS."
+			]
+		}
+	},
+	{
+		"title": "Graphic Designer",
+		"company": "VirginGreens Sdn Bhd",
+		"type": "Full Time",
+		"date": "Oct 2007 - Feb 2008",
+		"description": "VirginGreens focuses on biotech and organic bio fertiliser and provide Agronomic Advisory & Crop Consultancy. They also provide in-house R&D to continue support and enhance their products.",
+		"tasks": {
+			"accomplishments": [
+				"Linux Server management to make sure the sites and emails function well for all office staff.",
+				"Working with the marketing team to streamline the marketing strategy to promote the products and services.",
+				"Design and develop the company website using WordPress.",
+				"Product packaging designs."
+			]
+		}
+	},
+	{
+		"title": "Web Designer",
+		"company": "Advertlets Sdn Bhd",
+		"type": "Full Time",
+		"date": "Feb 2008 - Oct 2008",
+		"description": "Advertlets compensate bloggers when they create content they love and help promote products & services for advertiser.",
+		"tasks": {
+			"accomplishments": [
+				"Plan, design and provide the Ad Units for clients.",
+				"Interact with clients directly to understand their needs and requirements.",
+				"Design and maintain company website using Photoshop, Illustrator, WordPress and JavaScript."
+			]
+		}
+	},
+	{
+		"title": "Senior Reviewer",
+		"company": "Envato",
+		"type": "Contract",
+		"date": "Aug 2008 - Present",
+		"description": "Digital marketplace - ThemeForest, Envato.",
+		"tasks": {
+			"accomplishments": [
+				"Provide quality control for ThemeForest library by providing constructive feedback to the author on both design and codes.",
+				"Help to build the WordPress Guidelines for ThemeForest.",
+				"Part of the Market security team that provide layer of protection to the users and authors.",
+				"Work with a group of reviewers and make sure the tasks are completed on time while prioritise team harmony.",
+				"Provide technical support to customers.",
+				"author and customer technical support"
+			]
+		}
+	},
+	{
+		"title": "Creative Director",
+		"company": "Loondesign Studio Sdn. Bhd.",
+		"type": "Self Employed",
+		"date": "Aug 2008 - Present",
+		"description": "Founded in 2008 to provide high quality branding and web development services.",
+		"tasks": {
+			"accomplishments": [
+				"Negotiate and communicate with clients based on their requirements.",
+				"Making recommendations such as what technology to use, how to approach the project etc to clients based on the project requirements.",
+				"Working on projects range from branding, logo, app design, WordPress site development, Web development using static site generator, Prototyping, Wire-framing etc."
+			]
+		}
+	},
+	{
+		"title": "User Experience Designer",
+		"company": "YouthSays Sdn Bhd",
+		"type": "Full Time",
+		"date": "Apr 2009 - Oct 2009",
+		"description": "YouthSays is an online youth opinion community that is operated and privately owned by Youth Asia Sdn. Bhd., Malaysia.",
+		"tasks": {
+			"accomplishments": [
+				"It's a small startup while I was there and I get to participate in the brainstorming process and every little steps to achieve the goal.",
+				"Redesign and develop the community website using Photoshop, Illustrator, CSS/HTML and Ruby on Rails."
+			]
+		}
+	}
+]

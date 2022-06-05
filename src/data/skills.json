@@ -1,0 +1,32 @@
+[
+	{
+		"title": "Hard Skills",
+		"skills": {
+			"items": [
+				"Front End Development",
+				"Testing and Debugging Skills",
+				"Responsive Dev & Design Patterns",
+				"Mobile Dev & Design Patterns",
+				"User Experience and Interface Design",
+				"Version Control (Git)",
+				"Clean, Reusable, Readable Code",
+				"Applying best practices for Speed and Optimization Improvements"
+			]
+		}
+	},
+	{
+		"title": "Soft Skills",
+		"skills": {
+			"items": [
+				"Communication",
+				"Feedback",
+				"Team Worker",
+				"Time Management",
+				"Active Listener",
+				"Problem Solving Oriented",
+				"Self Starter and Self Organiser",
+				"Highly Ambitious and Self Motivated"
+			]
+		}
+	}
+]

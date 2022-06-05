@@ -1,0 +1,78 @@
+.figure {
+	width: 160px;
+	text-align: right;
+
+	img {
+		border-radius: 99999px;
+		width: 80px;
+		height: 80px;
+	}
+}
+
+.bio {
+	color: black;
+	@media screen and (min-width: 768px) {
+		width: 660px;
+	}
+
+	header {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		a {
+			text-decoration: none;
+			font-size: 0.8rem;
+			padding: 8px 16px;
+			border-radius: 15px;
+			background-color: rgba(0, 0, 0, 0.1);
+			color: black;
+			&:hover {
+				background-color: rgba(0, 0, 0, 1);
+				color: white;
+			}
+		}
+	}
+	h1 {
+		font-size: 1.5rem;
+		font-weight: 600;
+		letter-spacing: -0.44px;
+		color: #333;
+	}
+	.job {
+		font-size: 0.9rem;
+		font-weight: 400;
+		letter-spacing: -0.32px;
+		color: #999;
+	}
+
+	.meta {
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+		margin-top: 20px;
+		font-size: 0.9rem;
+		@media screen and (min-width: 768px) {
+			flex-direction: row;
+		}
+		& > * {
+			display: inline-flex;
+			align-items: center;
+
+			svg {
+				width: 16px;
+				height: 16px;
+				margin-right: 5px;
+			}
+		}
+	}
+
+	hr {
+		margin-block: 20px;
+		border: 0;
+		border-top: 1px solid #eaeaea;
+	}
+	.about {
+		font-size: 1.2rem;
+		font-family: Georgia, 'Times New Roman', Times, serif;
+	}
+}
