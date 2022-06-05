@@ -5,7 +5,6 @@ import {
 	BriefcaseIcon,
 	PresentationChartBarIcon
 } from '@heroicons/react/outline'
-import Code from './components/Code'
 import Grid from './components/Grid'
 
 import skills from './data/skills.json'

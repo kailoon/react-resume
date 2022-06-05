@@ -17,8 +17,9 @@
 }
 
 .leftpanel {
-	width: 160px;
+	width: 100%;
 	@media screen and (min-width: 768px) {
+		width: 160px;
 		text-align: right;
 	}
 	.type {
@@ -43,7 +44,9 @@
 		span {
 			font-size: 0.75rem;
 			opacity: 0.7;
-			display: block;
+			@media screen and (min-width: 768px) {
+				display: block;
+			}
 		}
 	}
 }

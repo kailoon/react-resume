@@ -1,6 +1,8 @@
 .figure {
 	width: 160px;
-	text-align: right;
+	@media screen and (min-width: 768px) {
+		text-align: right;
+	}
 
 	img {
 		border-radius: 99999px;
@@ -69,7 +71,7 @@
 	hr {
 		margin-block: 20px;
 		border: 0;
-		border-top: 1px solid #eaeaea;
+		border-top: 1px solid rgba(0, 0, 0, 0.05);
 	}
 	.about {
 		font-size: 1.2rem;
