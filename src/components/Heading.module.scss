@@ -1,17 +1,23 @@
 .title {
-	display: flex;
-	align-items: center;
 	padding: 0 20px;
-
-	h2 {
-		font-size: 1rem;
-		font-weight: 600;
-
-		letter-spacing: -0.44px;
-	}
-	svg {
-		width: 20px;
-		height: 20px;
-		margin-right: 8px;
+	div {
+		display: inline-flex;
+		align-items: center;
+		padding: 4px 12px;
+		border-radius: 99px;
+		// subtle yellow
+		background-color: rgba(255, 255, 150, 1);
+		border: 1px solid black;
+		box-shadow: 3px 5px 0 rgba(0, 0, 0, 0.1);
+		h2 {
+			font-size: 1rem;
+			font-weight: 600;
+			letter-spacing: -0.44px;
+		}
+		svg {
+			width: 20px;
+			height: 20px;
+			margin-right: 8px;
+		}
 	}
 }

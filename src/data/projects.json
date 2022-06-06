@@ -14,20 +14,6 @@
 		"skillsTools": { "items": ["UX", "UI", "WordPress", "JavaScript", "Figma"] }
 	},
 	{
-		"title": "99.co",
-		"job": "UI/UX Designer",
-		"date": "2015 - 2016",
-		"type": "freelance",
-		"description": "A map-based property search engine that provides renters, buyers, and agents fast and efficient property search experience.",
-		"tasks": {
-			"accomplishments": [
-				"Research and improve the Mobile & Web App User Interface and Experience to be as friendly as possible to users, regardless of their technical background for maximum adoption.",
-				"Wire frame and prototyped using Sketch App."
-			]
-		},
-		"skillsTools": { "items": ["UX", "UI", "Sketch App"] }
-	},
-	{
 		"title": "Wynntech Star",
 		"date": "2018",
 		"job": "Web Developer",
@@ -41,6 +27,21 @@
 		},
 		"skillsTools": { "items": ["Grav", "JavaScript"] }
 	},
+	{
+		"title": "99.co",
+		"job": "UI/UX Designer",
+		"date": "2015 - 2016",
+		"type": "freelance",
+		"description": "A map-based property search engine that provides renters, buyers, and agents fast and efficient property search experience.",
+		"tasks": {
+			"accomplishments": [
+				"Research and improve the Mobile & Web App User Interface and Experience to be as friendly as possible to users, regardless of their technical background for maximum adoption.",
+				"Wire frame and prototyped using Sketch App."
+			]
+		},
+		"skillsTools": { "items": ["UX", "UI", "Sketch App"] }
+	},
+
 	{
 		"title": "EverCondo App Design",
 		"date": "2015",

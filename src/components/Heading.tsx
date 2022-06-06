@@ -8,8 +8,10 @@ type Props = {
 const Heading = ({ icon, title }: Props) => {
 	return (
 		<div className={styles.title}>
-			{icon}
-			<h2>{title}</h2>
+			<div>
+				{icon}
+				<h2>{title}</h2>
+			</div>
 		</div>
 	)
 }
