@@ -12,6 +12,8 @@ import code from './data/code.json'
 import experiences from './data/experiences.json'
 import projects from './data/projects.json'
 import languages from './data/languages.json'
+import certs from './data/certificates.json'
+import Gallery from './components/Gallery'
 
 const App = () => {
 	return (
@@ -30,6 +32,8 @@ const App = () => {
 				icon={<PresentationChartBarIcon />}
 				typeOn={false}
 			/>
+			<hr />
+			<Gallery data={certs} title="Certifications" />
 			<hr />
 
 			<Grid data={skills} />

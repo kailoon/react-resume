@@ -1,21 +1,3 @@
-.title {
-	display: flex;
-	align-items: center;
-	padding: 0 20px;
-
-	h2 {
-		font-size: 1rem;
-		font-weight: 600;
-
-		letter-spacing: -0.44px;
-	}
-	svg {
-		width: 20px;
-		height: 20px;
-		margin-right: 8px;
-	}
-}
-
 .leftpanel {
 	width: 100%;
 	@media screen and (min-width: 768px) {

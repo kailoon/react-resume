@@ -1,4 +1,5 @@
 import Card from './Card'
+import Heading from './Heading'
 import styles from './Section.module.scss'
 
 interface Props {
@@ -27,10 +28,7 @@ interface Props {
 const Section = ({ title, data, icon, typeOn = true }: Props) => {
 	return (
 		<section>
-			<div className={styles.title}>
-				{icon}
-				<h2>{title}</h2>
-			</div>
+			<Heading icon={icon} title={title} />
 
 			{data.map((item, index) => (
 				<Card key={index}>
