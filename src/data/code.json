@@ -1,16 +1,17 @@
 [
 	{
-		"title": "Front End",
+		"title": "Languages & Frameworks",
 		"skills": {
 			"items": [
 				"HTML5",
 				"CSS3, SCSS, SASS",
 				"JavsScript",
 				"TailWindCSS",
+				"BootStrap",
 				"React",
 				"NextJS",
 				"JSON",
-				"Web"
+				"WordPress"
 			]
 		}
 	},
@@ -18,7 +19,7 @@
 		"title": "Tools",
 		"skills": {
 			"items": [
-				"Gitt",
+				"Git",
 				"Figma",
 				"Photoshop",
 				"Illustrator",
