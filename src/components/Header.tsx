@@ -1,5 +1,5 @@
 import Card from './Card'
-import bio from '../data/bio.json'
+
 import styles from './Header.module.scss'
 import {
 	CalendarIcon,
@@ -8,7 +8,28 @@ import {
 	PhoneIcon
 } from '@heroicons/react/outline'
 
-const Header = () => {
+type Props = {
+	data: {
+		name: string
+		title: string
+		jobTitle: string
+		avatar: string
+		website: string
+		dob: string
+		email: string
+		phone: string
+		location: string
+		about: string
+		education: {
+			title: string
+			school: string
+			date: string
+		}
+	}
+}
+
+const Header = ({ data }: Props) => {
+	const bio = data
 	return (
 		<Card>
 			<div>
