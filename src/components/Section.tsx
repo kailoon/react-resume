@@ -1,3 +1,4 @@
+import { OfficeBuildingIcon } from '@heroicons/react/outline'
 import Card from './Card'
 import Heading from './Heading'
 import styles from './Section.module.scss'
@@ -53,9 +54,14 @@ const Section = ({ title, data, icon, typeOn = true }: Props) => {
 					</div>
 					<div className={styles.rightpanel}>
 						<h3>{item.title}</h3>
-						<p>
-							<small>{item.company}</small>
-						</p>
+						{item.company && (
+							<p>
+								<small>
+									<OfficeBuildingIcon />
+									{item.company}
+								</small>
+							</p>
+						)}
 						<p>{item.description}</p>
 						<ul>
 							{item.tasks?.accomplishments &&
