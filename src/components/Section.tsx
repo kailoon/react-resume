@@ -18,6 +18,9 @@ interface Props {
 		skillsTools?: {
 			items?: string[]
 		}
+		skills?: {
+			items?: string[]
+		}
 	}[]
 }
 
@@ -28,8 +31,9 @@ const Section = ({ title, data, icon, typeOn = true }: Props) => {
 				{icon}
 				<h2>{title}</h2>
 			</div>
-			{data.map((item) => (
-				<Card key={item.title}>
+
+			{data.map((item, index) => (
+				<Card key={index}>
 					<div className={styles.leftpanel}>
 						{typeOn && (
 							<p
@@ -67,6 +71,17 @@ const Section = ({ title, data, icon, typeOn = true }: Props) => {
 								<ul className={styles.skills}>
 									{item.skillsTools.items &&
 										item.skillsTools.items.map((skill) => (
+											<li key={skill}>{skill}</li>
+										))}
+								</ul>
+							</>
+						)}
+						{item.skills && (
+							<>
+								<strong>Tools / Skills / Software:</strong>
+								<ul className={styles.skills}>
+									{item.skills.items &&
+										item.skills.items.map((skill) => (
 											<li key={skill}>{skill}</li>
 										))}
 								</ul>

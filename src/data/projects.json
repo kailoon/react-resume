@@ -1,5 +1,19 @@
 [
 	{
+		"title": "DearTime",
+		"date": "2021 - 2022",
+		"job": "Lead UI/UX Designer",
+		"type": "freelance",
+		"description": "Deartime is making life insurance accessible to everyone without intermediaries and restoring the quality of life for those in times of need.",
+		"tasks": {
+			"accomplishments": [
+				"Provide wireframe, prototype and final designs to improve the existing Mobile App in Figma.",
+				"Design and develop official website using WordPress & Elementor."
+			]
+		},
+		"skillsTools": { "items": ["UX", "UI", "WordPress", "JavaScript", "Figma"] }
+	},
+	{
 		"title": "99.co",
 		"job": "UI/UX Designer",
 		"date": "2015 - 2016",
@@ -14,18 +28,29 @@
 		"skillsTools": { "items": ["UX", "UI", "Sketch App"] }
 	},
 	{
-		"title": "DearTime",
-		"date": "2021 - 2022",
-		"job": "Lead UI/UX Designer",
+		"title": "Wynntech Star",
+		"date": "2018",
+		"job": "Web Developer",
 		"type": "freelance",
-		"description": "Deartime is making life insurance accessible to everyone without intermediaries and restoring the quality of life for those in times of need.",
+		"description": "Wynntech Star is prawn processing company that supply prawns to local and oversea market.",
 		"tasks": {
 			"accomplishments": [
-				"Provide wireframe, prototype and final designs to improve the existing Mobile App in Figma.",
-				"Design and develop official website using WordPress & Elementor."
+				"Develop the website using Grav (https://getgrav.org/) in 3 languages.",
+				"Services included hosting setup, emails setup, design, Grav implementation and SEO optimisation."
 			]
 		},
-		"skillsTools": { "items": ["UX", "UI", "WordPress", "JavaScript", "Figma"] }
+		"skillsTools": { "items": ["Grav", "JavaScript"] }
+	},
+	{
+		"title": "EverCondo App Design",
+		"date": "2015",
+		"job": "UI/UX Designer",
+		"type": "freelance",
+		"description": "Evercondo strives to tackle the problems faced by condo / HOA managers to deal with a large number of residents, resulting in miscommunication and poor quality of service for the entire community. It replaces the old ways where both managers and residents communicate and manage day-to-day chores using phones, emails, fax etc.",
+		"tasks": {
+			"accomplishments": ["The startup grows 300 Percent since 2016."]
+		},
+		"skillsTools": { "items": ["UX", "UI"] }
 	},
 	{
 		"title": "FlickEvents",
@@ -56,30 +81,5 @@
 			]
 		},
 		"skillsTools": { "items": ["WordPress", "Web Design", "JavaScript"] }
-	},
-	{
-		"title": "Wynntech Star",
-		"date": "2018",
-		"job": "Web Developer",
-		"type": "freelance",
-		"description": "Wynntech Star is prawn processing company that supply prawns to local and oversea market.",
-		"tasks": {
-			"accomplishments": [
-				"Develop the website using Grav (https://getgrav.org/) in 3 languages.",
-				"Services included hosting setup, emails setup, design, Grav implementation and SEO optimisation."
-			]
-		},
-		"skillsTools": { "items": ["Grav", "JavaScript"] }
-	},
-	{
-		"title": "EverCondo App Design",
-		"date": "2015",
-		"job": "UI/UX Designer",
-		"type": "freelance",
-		"description": "Evercondo strives to tackle the problems faced by condo / HOA managers to deal with a large number of residents, resulting in miscommunication and poor quality of service for the entire community. It replaces the old ways where both managers and residents communicate and manage day-to-day chores using phones, emails, fax etc.",
-		"tasks": {
-			"accomplishments": ["The startup grows 300 Percent since 2016."]
-		},
-		"skillsTools": { "items": ["UX", "UI"] }
 	}
 ]
