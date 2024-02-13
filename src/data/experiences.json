@@ -1,5 +1,35 @@
 [
 	{
+		"title": "Digital Manager",
+		"company": "DearTime Bhd",
+		"type": "Full Time - Remote",
+		"date": "Mar 2023 - Jan 2024",
+		"description": "First life insurer in the Bank Negara Malaysia Sandbox",
+		"tasks": {
+			"accomplishments": [
+				"Engage actively with stakeholders to translate their needs into actionable UI/UX design requirements.",
+				"Bridget the gap between the business team/users and development team by using prototypes and User Experience Requirements UXR.",
+				"Contribute in the process of digitising the purchase of insurance to make it simple for the end users while make sure it meets the regulations",
+				"Lead the development of the corporate portal",
+				"Convert existing mobile onboarding process to a more flexible and accessible experiences using web platform",
+				"Maintain the corporate website using WordPress and enhance the functionality using Javascript."
+			]
+		},
+		"skills": {
+			"items": [
+				"WordPress",
+				"JavasScript",
+				"PHP",
+				"HTML5",
+				"CSS3",
+				"Team Management",
+				"WordPress Security",
+				"Figma",
+				"Product Design"
+			]
+		}
+	},
+	{
 		"title": "Senior Reviewer",
 		"company": "Envato",
 		"type": "Contract",
