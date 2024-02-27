@@ -29,34 +29,7 @@
 			]
 		}
 	},
-	{
-		"title": "Senior Reviewer",
-		"company": "Envato",
-		"type": "Contract",
-		"date": "Aug 2008 - Present",
-		"description": "Digital marketplace - ThemeForest, Envato.",
-		"tasks": {
-			"accomplishments": [
-				"Provide quality control for ThemeForest library by providing constructive feedback to the author on both design and codes.",
-				"Help to build the WordPress Guidelines for ThemeForest.",
-				"Part of the Market security team that provide layer of protection to the users and authors.",
-				"Work with a group of reviewers and make sure the tasks are completed on time while prioritise team harmony.",
-				"Provide technical support to customers.",
-				"author and customer technical support"
-			]
-		},
-		"skills": {
-			"items": [
-				"WordPress",
-				"JavasScript",
-				"PHP",
-				"HTML5",
-				"CSS3",
-				"Team Management",
-				"WordPress Security"
-			]
-		}
-	},
+	
 	{
 		"title": "Creative Director & Front-End Developer",
 		"company": "Loondesign Studio Sdn. Bhd.",
